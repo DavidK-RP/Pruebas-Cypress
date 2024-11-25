@@ -1,1 +1,1 @@
-# Pruebas-Cypress
+# pruebas_de_cypress
